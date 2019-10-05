@@ -6,7 +6,6 @@ return [
     'basePath' => __DIR__,
     // это пространство имен где приложение будет искать все контроллеры
     'controllerNamespace' => 'app\controllers',
-    // установим псевдоним '@api', чтобы включить автозагрузку классов из пространства имен 'api'
     'aliases' => [
         '@bower' => '@vendor/bower-asset',
         '@npm'   => '@vendor/npm-asset',
