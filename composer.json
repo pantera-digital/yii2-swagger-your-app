@@ -1,7 +1,7 @@
 {
     "name": "pantera-digital/yii2-swagger-your-app",
     "description": "This small application allows you to connect to your another existing application in which you use OpenApi 3.0 markup and generate Swagger documentation on the fly",
-    "keywords": ["swagger", "openapi", "yii2", "application", "api", "documentation"],
+    "keywords": ["swagger", "open-api", "yii2", "api", "rest", "restfull", "json", "xml", "documentation", "docs"],
     "homepage": "https://github.com/pantera-digital/yii2-swagger-your-app",
     "type": "project",
     "require": {
