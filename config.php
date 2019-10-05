@@ -11,9 +11,6 @@ return [
         '@npm'   => '@vendor/npm-asset',
     ],
     'components' => [
-        'cache' => [
-            'class' => 'yii\caching\DummyCache',
-        ],
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
