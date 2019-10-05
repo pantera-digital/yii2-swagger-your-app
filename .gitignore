@@ -1,0 +1,4 @@
+# composer vendor dir
+/vendor
+.idea
+.php_cs.cache
