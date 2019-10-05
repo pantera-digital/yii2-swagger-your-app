@@ -8,6 +8,13 @@
         "yiisoft/yii2": "~2",
         "genxoft/yii2-oas3": "*"
     },
+    "authors": [
+        {
+            "name": "Alex Kostyk",
+            "homepage": "https://www.panteradigital.ru/",
+            "email": "web-mayak@mail.ru"
+        }
+    ],
     "repositories": [
         {
             "type": "composer",
