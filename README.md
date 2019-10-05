@@ -34,4 +34,6 @@ In `config.php` your should specify paths to parse your code:
 
 ## Run
 
-Navigate your browser to path like `http://localhost/yii2-swagger-your-app/web`
+Navigate your browser to path like `http://localhost/yii2-swagger-your-app/web` You will see similar:
+
+<img src="https://habrastorage.org/webt/bk/zs/kf/bkzskftiivdq2fdp4gln_ahouvi.png" width="100%">
