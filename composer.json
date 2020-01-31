@@ -5,6 +5,7 @@
     "homepage": "https://github.com/pantera-digital/yii2-swagger-your-app",
     "type": "project",
     "require": {
+        "php": ">=7.2.0",
         "yiisoft/yii2": "~2",
         "genxoft/yii2-oas3": "*"
     },
