@@ -34,7 +34,7 @@ In `config.php` your should specify paths to parse your code:
 
 ## CORS
 
-If you use swagger on a domain other than your API, you must allow access based on Cross-origin resource sharing (CORS):
+If you use swagger on a domain other than your API, you must allow access based on [Cross-origin resource sharing (CORS)](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing]):
 
 ```
 Access-Control-Allow-Origin: "*"
