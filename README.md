@@ -32,6 +32,15 @@ In `config.php` your should specify paths to parse your code:
     ]
 ```
 
+## CORS
+
+If you use swagger on a domain other than your API, you must allow access based on Cross-origin resource sharing (CORS):
+
+```
+Access-Control-Allow-Origin: "*"
+Access-Control-Expose-Headers: ""
+```
+
 ## Run
 
 Navigate your browser to path like `http://localhost/yii2-swagger-your-app/web` You will see similar:
